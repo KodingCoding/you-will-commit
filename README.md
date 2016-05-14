@@ -1,4 +1,4 @@
 # you-will-commit
-@zudoo: i am the only one who comitted
+@zudomc: i am not the only one who comitted
 
-This is that thing where @zudoo exploits git to make it look like very good coders committed here in order to gain fame. Yay! Exploits!
+This is that thing where @zudomc exploits git to make it look like very ~~good~~ bad coders committed here in order to gain fame. Yay! Exploits! Fat!
